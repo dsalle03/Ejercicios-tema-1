@@ -1,4 +1,4 @@
-## Ejercicios tema 1
+# Ejercicios tema 1
 
 https://github.com/dsalle03/Ejercicios-tema-1.git
 
