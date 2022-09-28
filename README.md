@@ -1,4 +1,4 @@
-## Tema_1_CEU
+## Ejercicios tema 1
 
 https://github.com/dsalle03/Tema_1_CEU.git
 
